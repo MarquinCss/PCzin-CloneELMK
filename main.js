@@ -57,5 +57,4 @@ function off(){
 	document.querySelector("#frase").style.backgroundColor = "#000"
 	document.querySelector("#frase").style.color = "#000"
 	document.getElementById("clo").style.opacity= "0"
-
 }
