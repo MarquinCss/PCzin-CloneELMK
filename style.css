@@ -145,4 +145,11 @@ transform: scale(1.1);
     
 }
 
-
+#off{
+	text-align:center;
+	background-color:white;
+	border-radius:30px;
+	width:30px;
+	height:20px;
+	cursor:pointer;
+}
